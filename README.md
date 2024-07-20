@@ -1,1 +1,1 @@
-# ANN-MNIST-Digit-Classification
+# ANN Hand Written Digit Classification
